@@ -9,4 +9,6 @@ print(type(1.5)) # Type "float"
 print(type(2 + 4j)) # Type "complex" 
 print(type(True)) # Type "bool" 
 
+print(type(print("Mi cadena de texto")))
+
   
